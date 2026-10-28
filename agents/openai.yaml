@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architectury Mod Project"
+  short_description: "Prepare and build version-correct Architectury Minecraft mods"
+  default_prompt: "Use $architectury-mod-project to prepare this generated Architectury mod project, apply its rules and MIT license, and write a complete implementation README."
